@@ -9,7 +9,7 @@ topnav_title: Slurm*O*Matic
 site_title: Slurm*O*Matic
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Stanford Research Computing
+company_name: UC Advanced Research Computing
 
 # This is the text in the top logo. For the value of modifier_class, see
 # https://decanter.stanford.edu/component/identity-lockup/
@@ -20,7 +20,6 @@ lockup_line1: Research Computing
 lockup_modifier_class: su-lockup--option-b
 
 # if you have forked this, please please change this to your google analytics ID
-googleID : G-ZE47PKCRTK
 # googleID : G-XXXXXX
 
 defaults:
